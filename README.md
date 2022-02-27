@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Principle of Tech Pages
 
 You can use the [editor on GitHub](https://github.com/HanJeongho/HanJeongho.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
